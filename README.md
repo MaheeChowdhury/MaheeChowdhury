@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Full-Stack Web Developer and also a Software Engineer. I am also
 
-![AI](https://img.shields.io/badge/AI-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)Aspiring AI Engineer,
+Aspiring AI Engineer,
 Machne learning Enthusiast,
 Passionate about Ethical AI,
 
