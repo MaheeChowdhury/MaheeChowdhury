@@ -1,7 +1,11 @@
 ## Hi there 👋
-
+I am a Full-Stack Web Developer and also a Software Engineer.
 # 💫 About Me:
-<br># 💫 About Me:<br>I create fast, scalable and delightful web apps with cutting edge clean code & architecture as well as a user-first design. I care about every layer of the stack; whether it meant a pixel-perfect UI or a well-designed REST API.<br><br>Exploring microservices- TypeScript patterns and performance in modern full stack systems.Also I have very high knowledge in C/C++ coding and Data Structure and Algorithm with excellent problem solving skills.
+<br># 💫 About Me:<br>I create fast, scalable and delightful web apps with cutting edge clean code & architecture as well as a user-first design. I care about every layer of the stack; whether it meant a pixel-perfect UI or a well-designed REST API.<br><br>Exploring microservices- TypeScript patterns and performance in modern full stack systems.Also I have very high knowledge in C/C++ coding and Data Structure and Algorithm with excellent problem solving skills.On the other hand, I am
+
+Aspiring AI Engineer
+Machne learning Enthusiast
+Passionate about Ethical AI
 
 
 ## 🌐 Socials:
